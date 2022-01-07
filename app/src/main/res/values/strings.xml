@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">German Grade Calculator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">German Grade Conversion Tool</string>
+    <string name="nav_header_subtitle">mahmudulrumc@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="des">
+        \nConvert Your Grade in German System
+        \n(using Modified Bavarian Formula)\n
+    </string>
+
+    <string name="german_grading_details">
+         1 – 1.5 Sehr Gut (Very good)
+        \n1.51 – 2.5 Gut (Good)
+        \n2.51 – 3.5 Befriedigend (Satisfactory)
+        \n3.51 – 4 Ausreichend (Sufficient)
+        \n4.01 – 6 Nicht Ausreichend (Not sufficient)
+    </string>
+
+    <string name="myself">
+        Apps developer\n\n
+        Mohammed Mahmudul Hasan\n
+        Student, Department of CSE\n
+        Daffodil International University
+    </string>
+
+    <string name="my_address">
+
+    </string>
+</resources>
